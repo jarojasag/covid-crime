@@ -143,11 +143,3 @@ Bases Procesadas/base_final22_rev.csv
 
 ---
 
-## **Contributing**
-Feel free to submit issues, feedback, or feature requests.
-
----
-
-## **License**
-This project is licensed under the MIT License.
-
